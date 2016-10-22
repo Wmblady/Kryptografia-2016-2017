@@ -1,0 +1,19 @@
+a) Nowy trener Legii Warszawa zapowiadal w wywiadach, ze nie bedzie tolerowal dyskusji i gwiazdorzenia ze strony pilkarzy, ktorych "glownym zadaniem jest grac". 
+
+
+u¿yty klucz: 6d818334c349204c210d315b02790d553de67418505f8fa7c317b79ab9a0832c
+
+iv: f8a54e90e1cbaf64979b0f508a9fb48c
+
+kryptogram: /grVmNl7glvW+qWhM/9BraUkIHDh2rMT5+P6pkFcMx9KaDCEtzrNlt1N99hCVuVES4N0CxaABymdPeb478WiX+7iM11VUveO2pN3ygDiVYj6EUYuuljK5RZII173EC5MRoBfXHg5odp6kelQ0yEeR/wGznKzpAQOfxQwlqrIjrdUjh50tAEoxEAc9TJUy8uDV81zr969cqh1xHqpLzhyYw==
+
+
+
+b) Bronislaw Komorowski ma nowa prace. 
+
+
+Uzyty klucz: 59a47e4be1fafbbadc13aa1335cf0046dbae4fdf53683e96461d914bdc37f8cd
+
+iv: 6a099549d163533275efdac89f9ad5a7
+
+kryptogram: 7hI8JhAEQtUEDEjh1CGO/eS1E420cMVy94cSlKd/+Xb8KJjBLAF8DN7g3KrtXfh3
